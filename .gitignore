@@ -1,3 +1,10 @@
+# Data folder
+data_pp
+data_raw
+
+# current working notebook
+source/VSDI_Analysis/AL.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
