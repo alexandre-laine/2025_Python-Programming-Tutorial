@@ -1,3 +1,6 @@
+# Mac cache file
+.DS_Store
+
 # Data folder
 data_pp
 data_raw
