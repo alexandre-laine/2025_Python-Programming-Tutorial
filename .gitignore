@@ -3,7 +3,7 @@ data_pp
 data_raw
 
 # current working notebook
-source/VSDI_Analysis/AL.ipynb
+*.pptx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
