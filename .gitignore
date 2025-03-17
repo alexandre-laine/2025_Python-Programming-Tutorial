@@ -4,6 +4,7 @@
 # Data folder
 data_pp
 data_raw
+/source/EEG_Oddball/Data
 
 # current working notebook
 *.pptx
